@@ -25,7 +25,7 @@ Potentially also compatible motherboards:
   - [HOT-307](https://theretroweb.com/motherboards/s/shuttle-hot-307)
 
 **Incompatible** platforms using similar slot:
-- [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20c.jpg?raw=true)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg?raw=true) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Only dual layer PCB!
+- [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20c.jpg?raw=true)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg?raw=true) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Looks like it might be dual layer PCB! :o 
 - [OGIVAR, INC. SYSTEM 386](https://theretroweb.com/motherboards/s/ogivar,-inc.-system-386) unlikely as its a 386XS
 - [POSITIVE CORPORATION PC340](https://theretroweb.com/motherboards/s/positive-corpora-pc340) wrong slot position
 - [ECS 386A](https://theretroweb.com/motherboards/s/ecs-386a) Same Chips & Technologies CS8230 chipset, same slot, not sure about slot position
