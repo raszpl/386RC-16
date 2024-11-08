@@ -1,7 +1,7 @@
 # Modular Circuit Technology 386RC-16 ram board
 [<img src="img/386RC-16 c.jpg" width='300'>](/img/386RC-16.jpg?raw=true)[<img src="img/386RC-16%2095%25%20c.jpg" width='300'>](/img/386RC-16%2095%25.png?raw=true)
 
-[<img src="img/386RC-16 back c.jpg" width='300'>](/img/386RC-16%20b.png?raw=true)[<img src="img/386RC-16%2095%25%20b%20c.jpg" width='300'>](/img/386RC-16%2095%25%20b.png?raw=true)
+[<img src="img/386RC-16 back c.jpg" width='300'>](/img/386RC-16%20back.jpg?raw=true)[<img src="img/386RC-16%2095%25%20b%20c.jpg" width='300'>](/img/386RC-16%2095%25%20b.png?raw=true)
 
 Reverse Engineered non standard ram expansion board for use in Modular Circuit Technology C386-33.
 
