@@ -73,3 +73,7 @@ McBierle authored Vogons [Story about C386-33 and me](https://www.vogons.org/vie
 10/31/2024: Very VIP. Preliminarily undistorted source pictures using [ShiftN](https://www.shiftn.de) to help with more precise component placement. [10% there front](/img/386RC-16%20about%2010%25.jpg)[10% back](/img/386RC-16%20about%2010%25b.jpg)
 
 10/30/2024: Project start. Looking at pictures of 386RC-16 uploaded by McBierle on vogons forum and assesing feasibility. Rougly placing components more or less by eye and tracing few lines. [1% there](/img/386RC-16%201%25.jpg)
+
+-----------------
+# Work for hire
+Interested in having a piece of hardware reverse engineered/cloned? Drop me an [email](https://github.com/raszpl).
