@@ -655,7 +655,7 @@
       "model_mode": 4,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://my_date.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -673,5 +673,7 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "MY_VALUE": "${CURRENT_DATE}"
+  }
 }
