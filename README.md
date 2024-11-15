@@ -23,6 +23,7 @@ Potentially also compatible motherboards:
 - Shuttle
   - [HOT-304](https://theretroweb.com/motherboards/s/shuttle-hot-304)
   - [HOT-307](https://theretroweb.com/motherboards/s/shuttle-hot-307)
+- [Digicom DIGIS-386WB](https://theretroweb.com/motherboards/s/digicom-digis-386wb)
 
 **Incompatible** platforms using similar slot:
 - [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20c.jpg?raw=true)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg?raw=true) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Looks like it might be dual layer PCB! :o 
