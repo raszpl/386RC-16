@@ -52,10 +52,10 @@ McBierle authored Vogons [Story about C386-33 and me](https://www.vogons.org/vie
 # Status
 
 100% reconstructed schematic. 95% ready for manufactuiring, remaining tasks:
-- Slot position is hard to judge from pictures picture alone due to lens distortion (perspective, pillow). I had to undistort them using
-- Dimensions are slightly off and needs measuring clearances.
-- Hard to guess which Edge Connector power pins are 5V/Ground on the connector. Half has tantalums with painted ground pin, but the other half doesn. Better to measure and verify.
-- I didnt bother with capacitors before confirming dimensions.
+- Slot position is hard to judge from pictures picture alone due to lens distortion (perspective, pillow). I had to undistort them using [ShiftN](https://www.shiftn.de/ShiftN_functionality.html) and Gimp.
+- Dimensions are slightly off, clearances need real measurements.
+- Hard to guess which Edge Connector power pins are 5V/Ground on the connector. Only half has tantalums with painted polarization. Better to measure and verify.
+- I didnt bother with decoupling capacitors before confirming dimensions.
 
 # Progress report
 
