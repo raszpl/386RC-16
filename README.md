@@ -61,8 +61,6 @@ McBierle authored Vogons [Story about C386-33 and me](https://www.vogons.org/vie
 
 5/15/2025: Got bored and played with routing. Old board [100% following original track/via layout](https://github.com/raszpl/386RC-16/releases/tag/0.1) had track length 3360cm and 381 vias. New optimized layout track length 3341 cm, 349 vias. 20cm shorter tracks and 30 less vias, nice.
 
-[100% schematic](/386RC-16%20diagram.png?raw=true). 100% electrical PCB. Woke up, looked at the CAS mess and immediatelly knew how to route it, magic of a good night's sleep! 0 ERC, 0 DRC errors. 1 DRC warning for unused Via. No idea if original Designer left it unused or somehow routed the board in different way. Personally I dont see a way to use this Via in any way :)
-
 11/9/2024: [100% schematic](/386RC-16%20diagram.png?raw=true). 100% electrical PCB. Woke up, looked at the CAS mess and immediatelly knew how to route it, magic of a good night's sleep! 0 ERC, 0 DRC errors. 1 DRC warning for unused Via. No idea if original Designer left it unused or somehow routed the board in different way. Personally I dont see a way to use this Via in any way :)
 
 11/8/2024: 95%. SIMM slots and DIP14 chips obscure CAS traces. [Struggling hard with routing CAS lines with all the missing information, still dont undertand purpose of OR gates instead of simple buffers](/img/386RC-16%20diagram%2090%25%20WTF%20CAS.png)
