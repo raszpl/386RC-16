@@ -51,13 +51,17 @@ McBierle authored Vogons [Story about C386-33 and me](https://www.vogons.org/vie
 
 # Status
 
-100% reconstructed schematic. 95% ready for manufactuiring, remaining tasks:
+100% reconstructed schematic. 95% ready for manufacturing, remaining tasks:
 - Slot position is hard to judge from pictures picture alone due to lens distortion (perspective, pillow). I had to undistort them using [ShiftN](https://www.shiftn.de/ShiftN_functionality.html) and Gimp.
 - Dimensions are slightly off, clearances need real measurements.
 - Hard to guess which Edge Connector power pins are 5V/Ground on the connector. Only half has tantalums with painted polarization. Better to measure and verify.
 - I didnt bother with decoupling capacitors before confirming dimensions.
 
 # Progress report
+
+5/15/2025: Got bored and played with routing. Old board [100% following original track/via layout](https://github.com/raszpl/386RC-16/releases/tag/0.1) had track length 3360cm and 381 vias. New optimized layout track length 3341 cm, 349 vias. 20cm shorter tracks and 30 less vias, nice.
+
+[100% schematic](/386RC-16%20diagram.png?raw=true). 100% electrical PCB. Woke up, looked at the CAS mess and immediatelly knew how to route it, magic of a good night's sleep! 0 ERC, 0 DRC errors. 1 DRC warning for unused Via. No idea if original Designer left it unused or somehow routed the board in different way. Personally I dont see a way to use this Via in any way :)
 
 11/9/2024: [100% schematic](/386RC-16%20diagram.png?raw=true). 100% electrical PCB. Woke up, looked at the CAS mess and immediatelly knew how to route it, magic of a good night's sleep! 0 ERC, 0 DRC errors. 1 DRC warning for unused Via. No idea if original Designer left it unused or somehow routed the board in different way. Personally I dont see a way to use this Via in any way :)
 
