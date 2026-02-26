@@ -1,11 +1,11 @@
 # Modular Circuit Technology 386RC-16 ram board
-[<img src="img/386RC-16 c.jpg" width='300'>](/img/386RC-16.jpg?raw=true)[<img src="img/386RC-16%20render%20c.png" width='300'>](/img/386RC-16%20render.png?raw=true)
+[<img src="img/386RC-16 c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16.jpg)[<img src="img/386RC-16%20render%20c.png" width='300'>](/img/386RC-16%20render.png?raw=true)
 
-[<img src="img/386RC-16 back c.jpg" width='300'>](/img/386RC-16%20back.jpg?raw=true)[<img src="img/386RC-16%20render%20b%20c.png" width='300'>](/img/386RC-16%20render%20b.png?raw=true)
+[<img src="img/386RC-16 back c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20back.jpg)[<img src="img/386RC-16%20render%20b%20c.png" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20render%20b.png)
 
 Reverse Engineered non standard ram expansion board for use in Modular Circuit Technology C386-33.
 
-[<img src="img/C386-33 c.jpg" width='200'>](/img/C386-33.jpg?raw=true)[<img src="img/386RC-16 plugged into C386-33 c.jpg" width='200'>](/img/386RC-16%20plugged%20into%20C386-33.jpg?raw=true)
+[<img src="img/C386-33 c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/C386-33.jpg)[<img src="img/386RC-16 plugged into C386-33 c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20plugged%20into%20C386-33.jpg)
 
 Diagram ([png](/386RC-16%20diagram.png?raw=true),[pdf](/386RC-16.pdf?raw=true)). Interesting detail about design - it exposes two ways of driving CAS (Column Address Strobe) signals. Designer made it flexible enough to be able to work with different memory controllers/interleave configurations. One set of four CAS pins drives consecutive SIMM sockets in every Bank, the other 4 pin set drives whole banks per CAS line. Brilliant.
 
@@ -27,7 +27,7 @@ Potentially also compatible motherboards:
 - [Octek JAGUAR II 386](https://theretroweb.com/motherboards/s/octek-jaguar-ii-386)
 
 **Incompatible** platforms using similar slot:
-- [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20c.jpg?raw=true)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg?raw=true) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Looks like it might be dual layer PCB! :o 
+- [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/not%20compatible/MCT-386-M%20c.jpg)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Looks like it might be dual layer PCB! :o 
 - [OGIVAR, INC. SYSTEM 386](https://theretroweb.com/motherboards/s/ogivar,-inc.-system-386) unlikely as its a 386XS
 - [POSITIVE CORPORATION PC340](https://theretroweb.com/motherboards/s/positive-corpora-pc340) wrong slot position
 - [ECS 386A](https://theretroweb.com/motherboards/s/ecs-386a) Same Chips & Technologies CS8230 chipset, same slot, not sure about slot position
@@ -41,11 +41,11 @@ Potentially also compatible motherboards:
 # Resources
 Those six pictures uploaded by McBierle was the only source of information. Provided all vias, back tracks and about 25% front ones. Rest is obscured by components and had to be deduced logically using knowledge of vintage memory subsystems.
 
-[<img src="img/386RC-16%20c.jpg" width='200'>](/img/386RC-16.jpg?raw=true)[<img src="img/386RC-16%20back%20c.jpg" width='200'>](/img/386RC-16%20back.jpg?raw=true)
+[<img src="img/386RC-16%20c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16.jpg)[<img src="img/386RC-16%20back%20c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20back.jpg)
 
-[<img src="img/386RC-16%20front%20left%20c.jpg" width='200'>](/img/386RC-16%20front%20left.jpg?raw=true)[<img src="img/386RC-16%20front%20right%20c.jpg" width='200'>](/img/386RC-16%20front%20right.jpg?raw=true)
+[<img src="img/386RC-16%20front%20left%20c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20front%20left.jpg)[<img src="img/386RC-16%20front%20right%20c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20front%20right.jpg)
 
-[<img src="img/386RC-16%20rear%20left%20c.jpg" width='200'>](/img/386RC-16%20rear%20left.jpg?raw=true)[<img src="img/386RC-16%20plugged%20into%20C386-33%20c.jpg" width='200'>](/img/386RC-16%20plugged%20into%20C386-33.jpg?raw=true)
+[<img src="img/386RC-16%20rear%20left%20c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20rear%20left.jpg)[<img src="img/386RC-16%20plugged%20into%20C386-33%20c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20plugged%20into%20C386-33.jpg)
 
 -----
 McBierle authored Vogons [Story about C386-33 and me](https://www.vogons.org/viewtopic.php?t=67359) thread.
