@@ -1,5 +1,5 @@
 # Modular Circuit Technology 386RC-16 ram board
-[<img src="img/386RC-16 c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16.jpg)[<img src="img/386RC-16%20render%20c.png" width='300'>](/img/386RC-16%20render.png?raw=true)
+[<img src="img/386RC-16 c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16.jpg)[<img src="img/386RC-16%20render%20c.png" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20render.png)
 
 [<img src="img/386RC-16 back c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20back.jpg)[<img src="img/386RC-16%20render%20b%20c.png" width='300'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20render%20b.png)
 
@@ -7,7 +7,7 @@ Reverse Engineered non standard ram expansion board for use in Modular Circuit T
 
 [<img src="img/C386-33 c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/C386-33.jpg)[<img src="img/386RC-16 plugged into C386-33 c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/386RC-16%20plugged%20into%20C386-33.jpg)
 
-Diagram ([png](/386RC-16%20diagram.png?raw=true),[pdf](/386RC-16.pdf?raw=true)). Interesting detail about design - it exposes two ways of driving CAS (Column Address Strobe) signals. Designer made it flexible enough to be able to work with different memory controllers/interleave configurations. One set of four CAS pins drives consecutive SIMM sockets in every Bank, the other 4 pin set drives whole banks per CAS line. Brilliant.
+Diagram ([png](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/386RC-16%20diagram.png),[pdf](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/386RC-16.pdf)). Interesting detail about design - it exposes two ways of driving CAS (Column Address Strobe) signals. Designer made it flexible enough to be able to work with different memory controllers/interleave configurations. One set of four CAS pins drives consecutive SIMM sockets in every Bank, the other 4 pin set drives whole banks per CAS line. Brilliant.
 
 Potentially also compatible motherboards:
 - [Modular Circuit Technology MCT-C386-33/40](https://theretroweb.com/motherboards/s/auva-computer-tam-33-p2)
@@ -62,7 +62,7 @@ McBierle authored Vogons [Story about C386-33 and me](https://www.vogons.org/vie
 
 5/15/2025: Got bored and played with routing. Old board [100% following original track/via layout](https://github.com/raszpl/386RC-16/releases/tag/0.1) had track length 3360cm and 381 vias. New optimized layout track length 3341 cm, 349 vias. 20cm shorter tracks and 30 less vias, nice.
 
-11/9/2024: [100% schematic](/386RC-16%20diagram.png?raw=true). 100% electrical PCB. Woke up, looked at the CAS mess and immediatelly knew how to route it, magic of a good night's sleep! 0 ERC, 0 DRC errors. 1 DRC warning for unused Via. No idea if original Designer left it unused or somehow routed the board in different way. Personally I dont see a way to use this Via in any way :)
+11/9/2024: [100% schematic](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/386RC-16%20diagram.png). 100% electrical PCB. Woke up, looked at the CAS mess and immediatelly knew how to route it, magic of a good night's sleep! 0 ERC, 0 DRC errors. 1 DRC warning for unused Via. No idea if original Designer left it unused or somehow routed the board in different way. Personally I dont see a way to use this Via in any way :)
 
 11/8/2024: 95%. SIMM slots and DIP14 chips obscure CAS traces. [Struggling hard with routing CAS lines with all the missing information, still dont undertand purpose of OR gates instead of simple buffers](/img/386RC-16%20diagram%2090%25%20WTF%20CAS.png)
 
