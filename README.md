@@ -25,8 +25,9 @@ Potentially also compatible motherboards:
   - [HOT-307](https://theretroweb.com/motherboards/s/shuttle-hot-307)
 - [Digicom DIGIS-386WB](https://theretroweb.com/motherboards/s/digicom-digis-386wb)
 - [Octek JAGUAR II 386](https://theretroweb.com/motherboards/s/octek-jaguar-ii-386)
+- [Morse KP 386DX](https://theretroweb.com/motherboards/s/morse-kp-386dx)
 
-**Incompatible** platforms using similar slot:
+**Incompatible** platforms using similar slot. Either wrong offset, orientation or dimensions:
 - [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/not%20compatible/MCT-386-M%20c.jpg)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Looks like it might be dual layer PCB! :o 
 - [OGIVAR, INC. SYSTEM 386](https://theretroweb.com/motherboards/s/ogivar,-inc.-system-386) unlikely as its a 386XS
 - [POSITIVE CORPORATION PC340](https://theretroweb.com/motherboards/s/positive-corpora-pc340) wrong slot position
@@ -36,8 +37,8 @@ Potentially also compatible motherboards:
   - [80386 SMT ASIC, 386 ASIC CACHE VER. 4.0 (09-00035-xx/09-00066-xx)](https://theretroweb.com/motherboards/s/micronics-80386-smt-asic,-386-asic-cache-ve)
   - [Baby Gemini 386-33 (09-00086-xx)](https://theretroweb.com/motherboards/s/micronics-baby-gemini-386-33-09-00086-xx)
   - [BABY GEMINI-386 ISA/LB](https://theretroweb.com/motherboards/s/micronics-baby-gemini-386-isa-lb)
-  - [80386 ASIC](https://theretroweb.com/motherboards/s/micronics-80386-asic) all use wrong slot
-
+  - [80386 ASIC](https://theretroweb.com/motherboards/s/micronics-80386-asic)
+- [MORSE KP-386C](https://www.vogons.org/viewtopic.php?t=43461)
 # Resources
 Those six pictures uploaded by McBierle was the only source of information. Provided all vias, back tracks and about 25% front ones. Rest is obscured by components and had to be deduced logically using knowledge of vintage memory subsystems.
 
