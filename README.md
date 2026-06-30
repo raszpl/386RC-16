@@ -26,6 +26,7 @@ Potentially also compatible motherboards:
 - [Digicom DIGIS-386WB](https://theretroweb.com/motherboards/s/digicom-digis-386wb)
 - [Octek JAGUAR II 386](https://theretroweb.com/motherboards/s/octek-jaguar-ii-386)
 - [Morse KP 386DX](https://theretroweb.com/motherboards/s/morse-kp-386dx)
+- [Auva Computer/Autocomputer TAM33-P1/TAM40-P1](https://theretroweb.com/motherboards/s/auva-computer-tam33-p1-tam40-p1)
 
 **Incompatible** platforms using similar slot. Either wrong offset, orientation or dimensions:
 - [Modular Circuit Technology MCT-386-M](https://dosreloaded.de/forum/thread/330-modular-circuit-technology-386dx20-fullsize-at-mainboard)  [<img src="img/not%20compatible/MCT-386-M c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/not%20compatible/MCT-386-M%20c.jpg)[<img src="img/not%20compatible/MCT-386-M RAM CARD c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/386RC-16/refs/heads/main/img/not%20compatible/MCT-386-M%20RAM%20CARD%20c.jpg) Grand daddy of C386-33 from 1987, 386DX 20 and IIT FPU 387 20Mhz. Looks like it might be dual layer PCB! :o 
